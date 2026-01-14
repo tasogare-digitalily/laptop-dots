@@ -5,3 +5,5 @@
 !/waybar/scripts/*
 !/waybar/themes/*
 !/waybar/assets/*
+!/wlogout/*
+!/wofi/*

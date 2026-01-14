@@ -2,3 +2,6 @@
 !*/
 !/hypr/*
 !/waybar/*
+!/waybar/scripts/*
+!/waybar/themes/*
+!/waybar/assets/*
